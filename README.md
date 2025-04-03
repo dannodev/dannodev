@@ -1,5 +1,7 @@
 ## Hola! 👋
 
+Hello Odin!
+
 Mi nombre es Daniel Vera, actualmente soy estudiante de Ingeniería en Software en Hybridge.
 Mi objetivo es ser Web Developer, por lo tanto también estoy aprendiendo HTML, CSS, JAVASCRIPT, REACT, PYTHON, MONGO, ETC.
 Este año una de mis metas es crear tres proyectos full stack, así que para lograrlo me gustaria aprender más, colaborar con personas que también estén interesadas en crear proyectos y ampliar sus conocimientos.
